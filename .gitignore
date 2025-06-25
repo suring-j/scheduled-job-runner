@@ -1,0 +1,31 @@
+# Python environment
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.Python
+env/
+.venv/
+venv/
+*.db
+*.sqlite3
+
+# Logs and reports
+logs/
+reports/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
